@@ -4,7 +4,7 @@ import CartItem from "./CartItem";
 import classes from "./Cart.module.css";
 import CartContext from "../../store/cart-context";
 
-//some changes made via Forking
+//Changes made via Forking
 
 
 const Cart = (props) => {
